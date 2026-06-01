@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gayathri%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Integrations&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gayathri%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%2%20%E2%80%A2%20AI%20Integrations&descAlignY=62&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@ I build **complete web applications** from pixel-perfect frontends to robust bac
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
 
 **🗄️ Database & ☁️ Cloud**
 
@@ -104,11 +104,11 @@ I build **complete web applications** from pixel-perfect frontends to robust bac
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayathriselvaraj543&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F97316&icon_color=FB923C&text_color=c9d1d9&border_radius=10&rank_icon=github" width="60%"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathriselvaraj543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&langs_count=8&border_radius=10" width="46%"/>
+ 
 </div>
 
 <div align="center">
@@ -227,36 +227,6 @@ AI-powered voice-interactive platform for medical students — simulates doctor-
 | 🎯 | **Hackathon Veteran** | Participated in **10+ hackathons** across India |
 | ⌨️ | **LeetCode** | Max Rating **1,469** · **110+ problems** · Global Rank 1,307,198 |
 | ✅ | **HackerRank** | **100+ problems** solved across domains |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree / Level | Institution | Year | Score |
-|:---------------|:------------|:----:|:-----:|
-| B.E. Computer Science & Engineering | Sri Eshwar College of Engineering | 2023 – 2027 | **8.1 CGPA** |
-| Higher Secondary (XII) | AVP Trust National Matric Hr. Sec. School | 2021 – 2023 | **84.83%** |
-| Secondary (X) | AVP Trust National Matric Hr. Sec. School | 2020 – 2021 | Pass |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| Certification | Platform | Year |
-|:-------------|:--------:|:----:|
-| ☁️ AWS Certified Cloud Practitioner | AWS | 2026 |
-| 📊 IBM Data Analysis with Python | Coursera | 2025 |
-| 🗄️ SQL (Basics) | HackerRank | 2025 |
-| 🤖 Fundamentals of Generative AI | Guvi SAWIT AI | 2024 |
-| 🔢 DSA Using C and C++ | Udemy | 2024 |
 
 </div>
 
