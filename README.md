@@ -1,10 +1,10 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayathri%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Integrations&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gayathri%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Integrations&descAlignY=62&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayathriselvaraj543&style=flat-square&color=70a5fd&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=gayathriselvaraj543&style=flat-square&color=F97316&label=Profile+Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logoColor=white" />
   &nbsp;
@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+React+%2B+Node+%2B+Django;Building+end-to-end+web+applications+%F0%9F%9A%80;AI+%2B+Voice+Integration+Enthusiast;Hackathon+Finalist+%E2%80%A2+Top+50+%2F+4000%2B+%40+DecodeX+2026;Code+it.+Ship+it.+Improve+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Code+it.+Ship+it.+Improve+it." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -104,17 +104,15 @@ I build **complete web applications** from pixel-perfect frontends to robust bac
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gayathriselvaraj543">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gayathriselvaraj543&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/gayathriselvaraj543">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathriselvaraj543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gayathriselvaraj543&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F97316&icon_color=FB923C&text_color=c9d1d9&border_radius=10&rank_icon=github" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gayathriselvaraj543&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathriselvaraj543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&langs_count=8&border_radius=10" width="46%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gayathriselvaraj543&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=F97316&fire=FB923C&currStreakLabel=F97316&sideLabels=FDBA74&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="60%"/>
 </div>
 
 ---
@@ -122,7 +120,7 @@ I build **complete web applications** from pixel-perfect frontends to robust bac
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayathriselvaraj543&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayathriselvaraj543&theme=tokyo-night&bg_color=0d1117&color=F97316&line=FB923C&point=FDBA74&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -268,10 +266,10 @@ AI-powered voice-interactive platform for medical students — simulates doctor-
 
 <div align="center">
 
-![ML](https://img.shields.io/badge/Machine%20Learning-Supervised%20%C2%B7%20Unsupervised%20%C2%B7%20Neural%20Nets-70A5FD?style=flat-square)
-![GenAI](https://img.shields.io/badge/Generative%20AI-LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents-BF91F3?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-Scalability%20%C2%B7%20Microservices-38BDAE?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-EC2%20%C2%B7%20Lambda%20%C2%B7%20S3%20%C2%B7%20CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-Supervised%20%C2%B7%20Neural%20Nets-F97316?style=flat-square)
+![GenAI](https://img.shields.io/badge/Generative%20AI-LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents-FB923C?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-Scalability%20%C2%B7%20Microservices-FDBA74?style=flat-square&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%C2%B7%20Lambda%20%C2%B7%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -293,5 +291,5 @@ AI-powered voice-interactive platform for medical students — simulates doctor-
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
