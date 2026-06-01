@@ -1,135 +1,120 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayathri%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20Building%20things%20that%20matter&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayathri%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Integrations&descAlignY=62&descSize=18" width="100%"/>
 </div>
 
-<!-- PROFILE VIEWS + FOLLOW -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayathriselvaraj1806&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=gayathriselvaraj543&style=flat-square&color=70a5fd&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/gayathriselvaraj1806?style=flat-square&color=bf91f3&label=Followers&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/B.E.%20CSE%20%40%20SECE-2023--2027-bf91f3?style=flat-square&logo=mortarboard&logoColor=white" />
 </div>
 
 <br/>
 
-<!-- TYPING HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Gayathri+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Django;AI+Integration+Enthusiast;Building+Real-World+Solutions+with+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+React+%2B+Node+%2B+Django;Building+end-to-end+web+applications+%F0%9F%9A%80;AI+%2B+Voice+Integration+Enthusiast;Hackathon+Finalist+%E2%80%A2+Top+50+%2F+4000%2B+%40+DecodeX+2026;Code+it.+Ship+it.+Improve+it." alt="Typing SVG" />
 </div>
 
 <br/>
 
 ---
 
-<!-- CODE-BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👩‍💻 About Me
 
-```python
-class Gayathri:
-    def __init__(self):
-        self.name        = "Gayathri S"
-        self.location    = "Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.E. CSE @ Sri Eshwar College of Engineering (2023–2027)"
-        self.email       = "gayathriselvaraj1806@gmail.com"
-        self.contact     = "+91 6379006081"
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-    @property
-    def stack(self):
-        return {
-            "languages":   ["JavaScript", "Python", "Java", "C", "C++"],
-            "frontend":    ["React.js", "TailwindCSS", "HTML", "CSS"],
-            "backend":     ["Node.js", "Express.js", "Django", "FastAPI"],
-            "databases":   ["MongoDB", "PostgreSQL", "MySQL"],
-            "cloud_devops":["AWS", "Vercel", "Netlify", "Render", "Git"],
-        }
+**Hey! I'm Gayathri** — a passionate **Full Stack Developer** from Tamil Nadu 🇮🇳
 
-    @property
-    def currently_learning(self):
-        return ["System Design", "Advanced DSA", "Cloud Architecture (AWS)"]
+I build **complete web applications** from pixel-perfect frontends to robust backends — with hands-on experience in **React**, **Node.js**, **Django**, and **FastAPI**.
 
-    @property
-    def fun_fact(self):
-        return "I debug with coffee ☕ and fix bugs with more coffee ☕☕"
-
-    def motto(self):
-        return "Code it. Ship it. Improve it. 🚀"
-
-me = Gayathri()
-print(me.motto())
-```
+- 🔭 &nbsp;Currently building AI-powered full stack apps with voice & LLM integration
+- 🌱 &nbsp;Learning — System Design · AWS Advanced · Docker · CI/CD
+- 🏆 &nbsp;Hackathon Finalist — Top **50 / 4000+** at **DecodeX Mumbai, 2026**
+- 📄 &nbsp;Published research paper in **TIJER International Research Journal**
+- ⌨️ &nbsp;LeetCode Max Rating: **1,469** · **110+ problems** solved
+- 📍 &nbsp;Tamil Nadu, India &nbsp;|&nbsp; 📬 gayathriselvaraj1806@gmail.com
 
 <br clear="right"/>
 
 ---
 
+## 🧱 Full Stack Expertise
+
+<div align="center">
+
+| Layer | Technologies |
+|:------|:-------------|
+| 🎨 **Frontend** | React.js · HTML5 · CSS3 · TailwindCSS · JavaScript |
+| ⚙️ **Backend** | Node.js · Express.js · Django · FastAPI · REST APIs · Socket.io |
+| 🗄️ **Database** | MongoDB · PostgreSQL · MySQL |
+| ☁️ **Cloud & Deploy** | AWS · Vercel · Netlify · Render |
+| 🤖 **AI & Integrations** | CrewAI · Groq LLM · Speech-to-Text · Text-to-Speech · API Integration |
+| 🛠️ **Tools** | Git · GitHub · Postman · VS Code |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
-<!-- LANGUAGES -->
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-<!-- FRAMEWORKS -->
-**Frameworks & Libraries**
+**🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**⚙️ Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-<!-- CLOUD & DEVOPS -->
-**Cloud & DevOps**
+**💻 Languages**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-<!-- DATABASES -->
-**Databases**
+**🗄️ Database & ☁️ Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-<!-- TOOLS -->
-**Tools & Platforms**
+**🛠️ Tools**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-BF91F3?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20LLM-70A5FD?style=flat-square&logo=lightning&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gayathriselvaraj1806">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayathriselvaraj1806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/gayathriselvaraj543">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gayathriselvaraj543&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/gayathriselvaraj1806">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathriselvaraj1806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  &nbsp;
+  <a href="https://github.com/gayathriselvaraj543">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathriselvaraj543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
----
-
-## 🔥 Streak Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gayathriselvaraj1806&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=gayathriselvaraj543&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -137,7 +122,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayathriselvaraj1806&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayathriselvaraj543&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -145,39 +130,8 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayathriselvaraj1806&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gayathriselvaraj543&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>🏢 Full Stack Developer Intern — Lysa Solutions &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Tamil Nadu, India</b></summary>
-
-<br/>
-
-> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-- 🤖 Built an **AI-powered medical training platform** using React & Django with **voice interaction** (Speech-to-Text + Text-to-Speech) and **AI-based grading** for automated evaluation of doctor-patient simulations.
-- 🔗 Handled complete **frontend-backend integration**, REST API development, and workflow optimisation for seamless user experience.
-- 📈 Integrated AI evaluation systems that significantly reduced manual assessment effort in medical training workflows.
-- 🛠️ Skills gained: HTML, CSS, JS, ReactJS, TailwindCSS, Node.js, Express.js, REST APIs, Django, FastAPI, MongoDB, MySQL, Speech AI APIs.
-
-</details>
-
-<details>
-<summary><b>🧱 MERN Stack Project — Visual Progress Tracker &nbsp;|&nbsp; 2025</b></summary>
-
-<br/>
-
-> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-- 📊 Built a **Visual Progress Tracker** using the full MERN stack (MongoDB, Express.js, React.js, Node.js).
-- 🎨 Developed the entire frontend interface with a focus on clean UX.
-- ⚡ Improved user experience and overall system efficiency by approximately **25%**.
-
-</details>
 
 ---
 
@@ -185,13 +139,90 @@ print(me.motto())
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| [🤖 AI-Based Academic Content Automation](https://github.com/gayathriselvaraj1806) | React.js · FastAPI · Python · CrewAI · Groq LLM | Auto-generates syllabus plans & question papers from PDFs; reduces manual academic effort significantly — *March 2026* |
-| [🏥 Medical Training Platform](https://github.com/gayathriselvaraj1806) | React.js · Django · PostgreSQL · Speech-to-Text · TTS | AI-powered voice-interactive training for medical students; real-time diagnosis practice with automated grading — *June 2025* |
-| [💻 Collaborative Code Editor](https://github.com/gayathriselvaraj1806) | React.js · Node.js · Express.js · Socket.io | Real-time multi-user code editing & execution; supports user auth, live sync & multi-language execution — *August 2025* |
+### 🤖 AI-Based Academic Content Automation System &nbsp;·&nbsp; *March 2026*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-BF91F3?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20LLM-70A5FD?style=flat-square&logo=lightning&logoColor=white)
+
+> Automated academic planning system that extracts content from PDFs and auto-generates syllabus plans & question papers using LLM agents — eliminating manual effort for educators entirely.
+
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gayathriselvaraj543)
 
 </div>
+
+---
+
+<div align="center">
+
+### 🏥 Medical Training Platform &nbsp;·&nbsp; *June 2025*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+> AI-powered voice-interactive platform for medical students — simulates doctor-patient conversations using Speech-to-Text & TTS with AI-based automated grading and evaluation.
+
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gayathriselvaraj543)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Collaborative Code Editor &nbsp;·&nbsp; *August 2025*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+> Real-time multi-user collaborative code editor — live sync across users, authentication, and multi-language code execution. Built for pair programming and team coding sessions.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://github.com/gayathriselvaraj543)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<details>
+<summary><b>🏢 Full Stack Developer Intern — Lysa Solutions &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Tamil Nadu</b></summary>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+- 🤖 Built an AI-powered medical training platform with **React + Django**, integrating Speech-to-Text, TTS, and AI-based grading for voice-interactive doctor-patient simulation
+- 🔗 Owned full **frontend-backend integration** — REST API design, workflow optimisation, performance tuning
+- 📈 Reduced manual evaluation effort significantly through AI-automated assessment pipelines
+- 🛠️ Stack: ReactJS · TailwindCSS · Node.js · Express.js · Django · FastAPI · MongoDB · MySQL
+
+</details>
+
+<details>
+<summary><b>🧱 MERN Stack — Visual Progress Tracker &nbsp;|&nbsp; 2025</b></summary>
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+- 📊 Built a full-stack **Visual Progress Tracker** on the complete MERN stack
+- ⚡ Improved user experience and system efficiency by approximately **25%** through frontend optimisation
+
+</details>
 
 ---
 
@@ -199,13 +230,13 @@ print(me.motto())
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:--:|:-----------:|:-------:|
-| 🥇 | **DecodeX Hackathon Finalist** | Top 50 among **4000+ participants** — Mumbai, 2026 |
+| &nbsp; | Achievement | Details |
+|:------:|:------------|:--------|
+| 🥇 | **DecodeX Hackathon Finalist** | Top **50** out of **4,000+** participants — Mumbai, 2026 |
 | 📄 | **Published Research Paper** | TIJER – International Research Journal, 2025 |
-| ⌨️ | **LeetCode** | Max Rating **1,469** · **110+ problems** solved · Global Rank **1,307,198** |
+| 🎯 | **Hackathon Veteran** | Participated in **10+ hackathons** across India |
+| ⌨️ | **LeetCode** | Max Rating **1,469** · **110+ problems** · Global Rank 1,307,198 |
 | ✅ | **HackerRank** | **100+ problems** solved across domains |
-| 🎯 | **Hackathon Veteran** | Participated in **10+ hackathons** across India, 2025 |
 
 </div>
 
@@ -215,11 +246,11 @@ print(me.motto())
 
 <div align="center">
 
-| 🏫 Degree / Level | 🏛️ Institution | 📅 Year | 📊 Score |
-|:------------------:|:--------------:|:-------:|:--------:|
-| B.E. Computer Science & Engineering | Sri Eshwar College of Engineering | 2023 – 2027 | **8.1 CGPA** (Vth Sem) |
-| Higher Secondary (Class XII) | AVP Trust National Matric Hr. Sec. School | 2021 – 2023 | **84.83%** |
-| Secondary (Class X) | AVP Trust National Matric Hr. Sec. School | 2020 – 2021 | Pass |
+| Degree / Level | Institution | Year | Score |
+|:---------------|:------------|:----:|:-----:|
+| B.E. Computer Science & Engineering | Sri Eshwar College of Engineering | 2023 – 2027 | **8.1 CGPA** |
+| Higher Secondary (XII) | AVP Trust National Matric Hr. Sec. School | 2021 – 2023 | **84.83%** |
+| Secondary (X) | AVP Trust National Matric Hr. Sec. School | 2020 – 2021 | Pass |
 
 </div>
 
@@ -230,7 +261,7 @@ print(me.motto())
 <div align="center">
 
 | Certification | Platform | Year |
-|:-------------:|:--------:|:----:|
+|:-------------|:--------:|:----:|
 | ☁️ AWS Certified Cloud Practitioner | AWS | 2026 |
 | 📊 IBM Data Analysis with Python | Coursera | 2025 |
 | 🗄️ SQL (Basics) | HackerRank | 2025 |
@@ -243,13 +274,15 @@ print(me.motto())
 
 ## 📚 Currently Learning
 
-```
-🌐 System Design        →  Scalability · Load Balancing · Microservices
-☁️ AWS (Advanced)       →  EC2 · S3 · Lambda · CloudFront · IAM
-🔢 Advanced DSA         →  Graphs · DP · Segment Trees · Tries
-🤖 Agentic AI           →  CrewAI · LangChain · RAG Pipelines
-🐳 DevOps Basics        →  Docker · CI/CD · GitHub Actions
-```
+<div align="center">
+
+![System Design](https://img.shields.io/badge/System%20Design-Scalability%20%C2%B7%20Microservices-70A5FD?style=flat-square)
+![AWS Advanced](https://img.shields.io/badge/AWS%20Advanced-EC2%20%C2%B7%20Lambda%20%C2%B7%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Advanced DSA](https://img.shields.io/badge/Advanced%20DSA-Graphs%20%C2%B7%20DP%20%C2%B7%20Tries-BF91F3?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-CrewAI%20%C2%B7%20LangChain%20%C2%B7%20RAG-38BDAE?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%C2%B7%20CI%2FCD%20%C2%B7%20GitHub%20Actions-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -257,11 +290,11 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayathriselvaraj1806)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gayathriselvaraj1806)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-selvaraj-68a31329a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gayathriselvaraj543)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gayathriselvaraj1806@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/gayu1804/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gayu_1804)
 
 </div>
 
